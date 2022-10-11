@@ -1,0 +1,20 @@
+{
+  "environmentName": "AzureCloud",
+  "homeTenantId": "21fd9298-8399-4268-8d5d-0e3a6b83a5f2",
+  "id": "46fafcc9-232c-45cf-bff2-d103b838d813",
+  "isDefault": true,
+  "managedByTenants": [],
+  "name": "Azure Pass – Sponsorship",
+  "state": "Enabled",
+  "tenantId": "21fd9298-8399-4268-8d5d-0e3a6b83a5f2",
+  "user": {
+    "name": "paul.kaeufl@tngtech.com",
+    "type": "user"
+  }
+}
+
+LOG_ANALYTICS_WORKSPACE_CLIENT_SECRET=LcPamrv5lnAt9CdbxvrNh9I/wG3OoFoq4LKqnIGNw3lOdqW75C7oSaly/vpluyuf5XpDoykG2CdjL8cP3oBBAg==
+
+LOG_ANALYTICS_WORKSPACE_CLIENT_ID=97487c16-d3e9-45c9-80b8-0eb108e7b390
+
+REGISTRY_URL=javaruntimesregistrybeniundpaul.azurecr.io
